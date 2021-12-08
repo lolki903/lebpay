@@ -28,7 +28,7 @@ include('config/setting.php');
 	</section>
 	<section class="arge">
 		<h1>Solde de votre compte:</h1>
-		<p>Livret A <span id="liva"><?php ?></span></p>
+		<p>Livret A <span id="liva">10 500€</span></p>
 		<p>Compte chèque<span>9 500€</span></p>
 	</section>
 <?php include('includes/footer.php'); ?>
